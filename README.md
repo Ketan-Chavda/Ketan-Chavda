@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Ketan-Chavda
-- 👀 I’m interested in Business Intelligence area
-- 🌱 I’m currently learning Data Science program from IIIT Bangalore via Upgrad
-- 💞️ I’m looking to collaborate on Learning
-- 📫 How to reach me ketan_chavda_21 on instagram mostly avaliable there dm for anything.
-- You can also email me on kracyketanchavda@gmail.com 
+#Lead-Scoring-Case-Study-Upgrad
